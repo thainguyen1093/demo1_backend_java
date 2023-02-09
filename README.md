@@ -1,0 +1,1 @@
+This is an empty REST-ful java using maven
