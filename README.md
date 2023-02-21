@@ -25,3 +25,7 @@ Run the jar file after build: (useful)
 ```
 java -jar target/demo1_backend_java_1.0.jar --buildNumber=1.0
 ```
+Change version of app (no use)
+```
+mvn versions:set -DnewVersion=2.1.1
+```
